@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-fltk",
+  "dependencies": {
+    "fltk/fltk": "1.3.4.1"
+  }
+}
